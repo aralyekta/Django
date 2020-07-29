@@ -25,7 +25,7 @@ SECRET_KEY = 'om^28#1ia=j-7(3o%qu$7z3$dpi3_zv$inj15-e#e592_wsk-p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.denemearal.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aralyekta.pythonanywhere.com']
 
 
 # Application definition
